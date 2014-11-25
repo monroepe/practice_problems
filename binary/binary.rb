@@ -1,5 +1,5 @@
 def binary(number)
-  return 0 if number == 0
+  return "0" if number == 0
 
   binary = ""
 
